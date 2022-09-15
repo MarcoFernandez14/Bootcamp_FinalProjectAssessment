@@ -12,6 +12,6 @@ I think we all showed a positive actitude towards the project status in all time
 
 
 ## Summary of the Project
-* Topic: Stray Animals in Sonoma County
-The idea was to gather insights about stray animals found in Sonoma County and understand how different factors such as location, weather, etc. can impact the volume of stray animals found in Sonoma County.
+##### Topic: Stray Animals in Sonoma County  
+The idea was to gather insights about stray animals found in Sonoma County and understand how different factors such as location, weather, etc. can impact the volume of stray animals found in Sonoma County.  
 We used machine learning to predict outcomes of stray animals found in Sonoma County. We focused in the model GradientBoostingRegresor.
